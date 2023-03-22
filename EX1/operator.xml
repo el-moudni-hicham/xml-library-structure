@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE operator SYSTEM "file:/D:/MR%20SDIA/SDIA%202/TEC%20WEB/XML/TP%20XML%20Youssfi/EX1/operator.dtd">
+<operator>
+    <client code="C1" nom="hicham">
+        <abonnement num="A1" dateAb="2023-03-19">
+            <facture numFact="F1" dateFact="2023-05-12" montant="900"/>
+            <facture numFact="F2" dateFact="2023-05-12" montant="700"/>
+        </abonnement>
+        <abonnement num="A2" dateAb="2023-03-19">
+            <facture numFact="F3" dateFact="2023-05-12" montant="900"/>
+            <facture numFact="F4" dateFact="2023-05-12" montant="200"/>
+            <facture numFact="F5" dateFact="2023-05-12" montant="100"/>
+            <facture numFact="F6" dateFact="2023-05-12" montant="720"/>
+        </abonnement>
+    </client>
+    <client code="C2" nom="ayoub">
+        <abonnement num="A3" dateAb="2023-03-19">
+            <facture numFact="F7" dateFact="2023-05-12" montant="1730"/>
+        </abonnement>
+    </client>
+</operator>

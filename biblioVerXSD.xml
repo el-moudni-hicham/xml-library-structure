@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/D:/MR%20SDIA/SDIA%202/TEC%20WEB/XML/TP%20XML%20Youssfi/biblio.xsd">
+    <etudiant code="E1" nom="EL MOUDNI" prenom="HICHAM" age="21">
+        <livre id="1" titre="Java" dateEmprunt="2023-02-24" rendu="Oui"/>
+        <livre id="2" titre="Python" dateEmprunt="2023-03-15" rendu="Non"/>
+    </etudiant>
+    <etudiant code="E2" nom="MOUHTARAM" prenom="SOUFIANE" age="22">
+        <livre id="1" titre="Java" dateEmprunt="2023-03-14" rendu="Non"/>
+        <livre id="2" titre="Python" dateEmprunt="2023-03-15" rendu="Non"/>
+        <livre id="2" titre="Python" dateEmprunt="2023-03-15" rendu="Non"/>
+    </etudiant>
+</biblio>

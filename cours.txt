@@ -1,0 +1,8 @@
+DATA types :
+
+ID : unique
+NMTOKEN : pas d'espace
+CDATA : tout les types int, float,... (Text) 
+
+type enumere : rendu (OUI|NON) "NON" //default value
+

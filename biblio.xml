@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "file:/D:/MR%20SDIA/SDIA%202/TEC%20WEB/XML/TP%20XML%20Youssfi/biblio.dtd">
+<?xml-stylesheet type="text/xsl" href="biblio1.xsl"?>
+<biblio>
+    <etudiant code="E1" nom="EL MOUDNI" prenom="HICHAM" age="21">
+        <livre id="L1" titre="Java" dateEmprunt="2023-02-24" rendu="Oui"/>
+        <livre id="L2" titre="Python" dateEmprunt="2023-03-15" rendu="Non"/>
+    </etudiant>
+    <etudiant code="E2" nom="MOUHTARAM" prenom="SOUFIANE" age="22">
+        <livre id="L1" titre="Java" dateEmprunt="2023-03-14" rendu="Non"/>
+        <livre id="L2" titre="Python" dateEmprunt="2023-03-15" rendu="Non"/>
+        <livre id="L2" titre="Python" dateEmprunt="2023-03-15" rendu="Non"/>
+    </etudiant>
+</biblio>

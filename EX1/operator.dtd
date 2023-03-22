@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT operator (client+)>
+<!ELEMENT client (abonnement+)>
+<!ELEMENT abonnement (facture+)>
+<!ELEMENT facture EMPTY >
+
+<!ATTLIST client
+    code ID #REQUIRED
+    nom CDATA #REQUIRED
+>
+
+<!ATTLIST abonnement
+    num ID #REQUIRED
+    type (FAX|TEL) "FAX"
+    dateAb CDATA #REQUIRED
+>
+
+<!ATTLIST facture
+    numFact ID #REQUIRED
+    dateFact CDATA #REQUIRED
+    montant NMTOKEN #REQUIRED
+>
