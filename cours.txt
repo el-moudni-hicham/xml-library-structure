@@ -6,3 +6,5 @@ CDATA : tout les types int, float,... (Text)
 
 type enumere : rendu (OUI|NON) "NON" //default value
 
+
+SVG : Scalable Vector Graphics
